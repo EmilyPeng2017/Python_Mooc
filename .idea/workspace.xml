@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df345dde-d0b8-4775-ad23-ccbdaf945598" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice/004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_Mooc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Mooc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/005.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,20 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="001.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/001.py">
+      <file leaf-file-name="005.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practice/005.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="004.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Practice/004.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            <state relative-caret-position="770">
+              <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -56,6 +45,7 @@
         <option value="$PROJECT_DIR$/Practice/002.py" />
         <option value="$PROJECT_DIR$/Practice/003.py" />
         <option value="$PROJECT_DIR$/Practice/004.py" />
+        <option value="$PROJECT_DIR$/Practice/005.py" />
       </list>
     </option>
   </component>
@@ -115,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.004">
+  <component name="RunManager" selected="Python.005">
     <configuration name="001" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Mooc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,14 +178,34 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="005" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Mooc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/005.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.001" />
       <item itemvalue="Python.002" />
       <item itemvalue="Python.003" />
       <item itemvalue="Python.004" />
+      <item itemvalue="Python.005" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.005" />
         <item itemvalue="Python.004" />
         <item itemvalue="Python.003" />
         <item itemvalue="Python.002" />
@@ -225,7 +235,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3290938" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.13354531" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -254,6 +264,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Practice/001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/004.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Practice/001.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -331,6 +355,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/004.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Practice/001.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -338,10 +369,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/004.py">
+    <entry file="file://$PROJECT_DIR$/Practice/005.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        <state relative-caret-position="770">
+          <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
         </state>
       </provider>
     </entry>
