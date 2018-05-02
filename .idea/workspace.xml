@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df345dde-d0b8-4775-ad23-ccbdaf945598" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/python_Advantaged/2_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/009.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="009.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Practice/009.py">
+      <file leaf-file-name="2_2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python_Advantaged/2_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            <state relative-caret-position="222">
+              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -50,6 +50,7 @@
         <option value="$PROJECT_DIR$/Practice/007.py" />
         <option value="$PROJECT_DIR$/Practice/008.py" />
         <option value="$PROJECT_DIR$/Practice/009.py" />
+        <option value="$PROJECT_DIR$/python_Advantaged/2_2.py" />
       </list>
     </option>
   </component>
@@ -75,12 +76,7 @@
             <path>
               <item name="Python_Mooc" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Mooc" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Mooc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Mooc" type="462c0819:PsiDirectoryNode" />
-              <item name="Python中函数式编程简介_files" type="462c0819:PsiDirectoryNode" />
+              <item name="python_Advantaged" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -109,25 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.009">
-    <configuration name="005" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Mooc" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/005.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.2_2">
     <configuration name="006" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Mooc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,20 +178,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="2_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Mooc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_Advantaged" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_Advantaged/2_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.005" />
       <item itemvalue="Python.006" />
       <item itemvalue="Python.007" />
       <item itemvalue="Python.008" />
       <item itemvalue="Python.009" />
+      <item itemvalue="Python.2_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2_2" />
         <item itemvalue="Python.009" />
         <item itemvalue="Python.008" />
         <item itemvalue="Python.007" />
         <item itemvalue="Python.006" />
-        <item itemvalue="Python.005" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +239,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35930046" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.35771066" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -268,6 +264,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Practice/009.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Practice/009.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -431,8 +434,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/009.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        <state>
+          <caret selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_Advantaged/2_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
